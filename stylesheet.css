@@ -1,0 +1,151 @@
+{
+margin:0px;
+padding:0px;
+        font-family: sans-serif;
+background-color: #f3f3f3;
+        
+}
+.clear
+{
+clear: both;
+}
+.header
+{
+background-color: #3B5998;
+height: 85px;
+        width: 100%;
+}
+.container
+{
+width: 72%;
+margin: 0 auto;
+}
+.container .label
+{
+width: 50%;
+float: left;
+color: #fff;
+
+        
+}
+.login
+{
+width: 45%;
+float: left;
+color: #fff;
+
+}
+.label h1
+{
+font-size: 44px;
+padding-left: 5px;
+    padding-top: 15px;
+}
+.email 
+{
+float: left;
+width: 40%;
+        padding-top:15px; 
+        box-sizing: border-box;
+
+}
+.password
+{
+float: left;
+padding-top:15px; 
+}
+input[type=submit]
+{
+margin-top:38px;
+margin-left: 22px;
+        margin-bottom: 10px;
+
+font-family: sans-serif;
+background-color: #4444d4;
+border: none;
+        color: #fff;
+        height: 25px;
+        padding: 3px 7px;
+        font-weight: bolder;
+        
+}
+.btn{
+    background-color: #4267b2;
+    padding: 5px ;
+    margin-top: 35px;
+        margin-left: 25px;
+    border: none;
+
+}
+input[type=submit]:hover
+{
+background-color:darkblue;
+}
+input
+{
+margin-top: 5px;
+        height: 20px;
+}
+.content
+{
+width: 50%;
+float: left;
+line-height: 30px;
+color: #063865;
+font-size: 20px;
+        margin-top: 10px;
+
+}
+.sigup h1
+{
+color:#444;
+}
+.sigup
+{
+float: right;
+width: 45%;
+    margin-top: 10px;
+}
+.sigup input[type="text"]
+{
+width: 40%;
+padding: 10px;
+margin: 5px;
+border-radius:5px;
+        font-family: sans-serif;
+
+}
+.sigup input[type="email"]
+{
+width: 90%;
+padding: 10px;
+margin: 5px;
+border-radius: 10px;
+        font-family: sans-serif;
+
+}
+.sigup input[type="password"]
+{
+width: 90%;
+padding: 10px;
+margin: 5px;
+border-radius: 10px;
+        font-family: sans-serif;
+}
+.sigup input[type="submit"]
+{
+width:30%;
+margin: 5px;
+padding: 5px;
+border-radius: 10px;
+font-family: sans-serif;
+        font-weight: bolder;
+
+}
+.btn-1{
+      padding: 5px ;
+    margin-top: 15px;
+        margin-left: 15px;
+    border: none;
+    cursor: pointer;
+}
